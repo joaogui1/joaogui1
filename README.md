@@ -2,9 +2,10 @@
 ![Pronouns](https://img.shields.io/badge/Pronouns-he%2Fhim-green) 
 
 Hi guys, I'm **João Araújo**. I'm a CS student at University of São Paulo and a data scientist at MADAI. 
-I love mathematics and find Deep Learning fascinating and have worked with **Tensorflow**, **Keras** and many frameworks in the **JAX** ecosystem, contact me if you have same interests or some questions!
 
-### 📫 Contact Me
+I love mathematics and find Deep Learning fascinating and have worked with **Tensorflow**, **Keras** and many frameworks in the **JAX** ecosystem, contact me if you have the same interests or some questions!
+
+### 📫 Contact
 
 [twitter][0] | [youtube][1] | [blog][2] or just ✉️ [Email](mailto:joaoguilhermearujo@gmail.com)
  
