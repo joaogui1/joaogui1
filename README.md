@@ -11,8 +11,6 @@ I love mathematics and find Deep Learning fascinating and have worked with **Ten
  
 ### 💻 Open Source Work Stats
 
-![joaogui1's Github stats](https://github-readme-stats.vercel.app/api?username=joaogui1&show_icons=true)
-
 [0]: https://twitter.com/_joaogui1
 [1]: https://www.youtube.com/channel/UCd2YmvpagaO_F-YskJgAShg?view_as=subscriber
 [2]: https://joaogui1.netlify.app/
